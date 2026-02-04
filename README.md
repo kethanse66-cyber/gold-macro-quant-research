@@ -24,6 +24,12 @@ This makes Gold an ideal candidate for macro-quant research.
 - Risk-first position sizing and drawdown controls
 - Transaction cost and slippage modeling
 - Walk-forward validation across market regimes
+
+## Day 1 Notes
+- I was confused at first but now I can load data
+- I can see rows and columns
+- Gold has OHLC prices over time
+
 - Failure and stress-period analysis (e.g., 2022 rate-hike cycle)
 
 ## Disclaimer
