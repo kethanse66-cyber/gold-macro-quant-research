@@ -31,6 +31,12 @@ This makes Gold an ideal candidate for macro-quant research.
 - Gold has OHLC prices over time
 
 - Failure and stress-period analysis (e.g., 2022 rate-hike cycle)
+## Day 2 Notes
+
+- Implemented ATR-based volatility normalization using percentiles
+- Classified market conditions into LOW / NORMAL / HIGH / EXTREME regimes
+- Added system-level state machine (ACTIVE / INACTIVE)
+- Trading is allowed only during healthy volatility environments
 
 ## Disclaimer
 This project is for research and educational purposes only and does not constitute investment advice.
