@@ -38,6 +38,9 @@ This makes Gold an ideal candidate for macro-quant research.
 - Added system-level state machine (ACTIVE / INACTIVE)
 - Trading is allowed only during healthy volatility environments
 
+- Day 3: Added volatility-gated system state logic (ACTIVE / INACTIVE)
+
+
 ## Disclaimer
 This project is for research and educational purposes only and does not constitute investment advice.
 
