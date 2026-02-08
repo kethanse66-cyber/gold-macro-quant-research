@@ -39,6 +39,14 @@ This makes Gold an ideal candidate for macro-quant research.
 - Trading is allowed only during healthy volatility environments
 
 - Day 3: Added volatility-gated system state logic (ACTIVE / INACTIVE)
+- ## Day 4 Notes
+
+- Learned what Average True Range (ATR) actually measures
+- Implemented ATR using True Range instead of simple price change
+- ATR shows how volatile gold is, not where price will go
+- Added two ATR periods to compare short vs medium volatility
+- This will be useful later for risk, position size, and stop levels
+
 
 
 ## Disclaimer
